@@ -1,2 +1,3 @@
-# shapes
-boxes, torii, and sphere points
+# coordinate system stacks
+usage: make run
+-> mr roboto
